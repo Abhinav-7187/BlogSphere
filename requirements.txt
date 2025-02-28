@@ -1,0 +1,8 @@
+Flask
+Flask-WTF
+flask_bootstrap
+flask-bcrypt
+Flask-SQLAlchemy
+flask_jwt_extended
+email_validator
+gunicorn
